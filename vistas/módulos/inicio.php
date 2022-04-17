@@ -10,7 +10,7 @@
       
       
       
-      <small><h1></h1></small>
+      <  pequeño  ><  h1  ></  h1  ></ pequeño >
     
     </h1>
 
