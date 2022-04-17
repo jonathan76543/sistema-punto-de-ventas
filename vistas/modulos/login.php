@@ -10,7 +10,7 @@
 
   <div class="login-box-body">
 
-    <p class="login-box-msg">BIENVENIDOS A DISTRINVENT su distribuidora de licores de confianza </p>
+    <p class="login-box-msg">BIENVENIDOS A TIENDAS BUENA PAGA </p>
 
     <form method="post">
 
