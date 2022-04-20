@@ -4,11 +4,13 @@
 
 
    
-
-    <img src="vistas/img/plantilla/banner_2.png" class="img-responsive" style="padding:20px 250px">
-    <h1>
+<!--=====================================
+  IMAGEN PAGINA PRINCIPAL
+  
+   <img src="vistas/img/plantilla/.png" class="img-responsive" style="padding:20px 250px">
+    <h1> 
       
-      
+      ======================================-->
       
       <small><h1></h1></small>
     
