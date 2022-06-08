@@ -6,14 +6,17 @@
    
 <!--=====================================
   IMAGEN PAGINA PRINCIPAL
-  
-   <img src="vistas/img/plantilla/.png" class="img-responsive" style="padding:20px 250px">
+   ======================================-->  
+   
+   <img src="vistas/img/plantilla/back.png" class="img-responsive" style="padding:20px 250px">
     <h1> 
       
-    ======================================-->  
-      
+   
+
+
+    <!--=====================================  
       <  pequeño  ><  h1  ></  h1  ></ pequeño >
-    
+    ======================================-->  
     </h1>
 
     
